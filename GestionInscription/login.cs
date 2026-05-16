@@ -41,7 +41,11 @@ namespace GestionInscription
             bool isValid = isOk(noms, mdps);
             if (isValid)
             {
-                MessageBox.Show("Connexion ok");
+                //MessageBox.Show("Connexion ok");
+                //principale a = new principale();
+                stat a=new stat();
+                a.Show();
+                //this.Hide();
 
             }
             else
