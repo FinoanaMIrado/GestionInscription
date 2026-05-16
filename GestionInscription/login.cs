@@ -2,9 +2,9 @@ using MySql.Data.MySqlClient;
 
 namespace GestionInscription
 {
-    public partial class Form1 : Form
+    public partial class login : Form
     {
-        public Form1()
+        public login()
         {
             InitializeComponent();
         }
@@ -14,7 +14,7 @@ namespace GestionInscription
         public bool isOk(string nomUser, string mdp)
         {
             var conn = DB.OpenConnection();
-            if (conn != null) 
+            if (conn != null)
             {
                 string loginy = "SELECT COUNT(*) FROM utilisateurs WHERE nom_utilisateur = @nom AND mot_de_passe =@mdp";
 
@@ -28,16 +28,18 @@ namespace GestionInscription
             }
             return false;
             //MessageBox.Show("Nom d'utilisateur ou mot de passe incorrectes.");
-         
+
 
         }
-        private void button1_Click(object sender, EventArgs e)
-        {
-            var noms=nom.Text.Trim();
-            var mdps=mdp.Text.Trim();
 
-           bool isValid = isOk(noms, mdps);
-           if (isValid)
+
+        private void btn_conct_Click(object sender, EventArgs e)
+        {
+            var noms = nom.Text.Trim();
+            var mdps = mdp.Text.Trim();
+
+            bool isValid = isOk(noms, mdps);
+            if (isValid)
             {
                 MessageBox.Show("Connexion ok");
 
@@ -46,15 +48,11 @@ namespace GestionInscription
             {
                 MessageBox.Show("Incorrecte aux niv du mdp ou nomuser");
             }
-           
+        }
 
-
-
-
-
-       
-
-
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestionInscription")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4810920641103671d585abbce1d5d8f119526f3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2d1859c891f6b5d4a1eb2813dc280d8873d4c00")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestionInscription")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestionInscription")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

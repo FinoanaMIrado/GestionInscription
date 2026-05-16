@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\finoa\\source\\repos\\GestionInscription\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B041CE7-2456-3405-FB24-0AD2B9C59E29}|GestionInscription\\GestionInscription.csproj|c:\\users\\finoa\\source\\repos\\gestioninscription\\gestioninscription\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B041CE7-2456-3405-FB24-0AD2B9C59E29}|GestionInscription\\GestionInscription.csproj|solutionrelative:gestioninscription\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B041CE7-2456-3405-FB24-0AD2B9C59E29}|GestionInscription\\GestionInscription.csproj|c:\\users\\finoa\\source\\repos\\gestioninscription\\gestioninscription\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B041CE7-2456-3405-FB24-0AD2B9C59E29}|GestionInscription\\GestionInscription.csproj|solutionrelative:gestioninscription\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B041CE7-2456-3405-FB24-0AD2B9C59E29}|GestionInscription\\GestionInscription.csproj|c:\\users\\finoa\\source\\repos\\gestioninscription\\gestioninscription\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6B041CE7-2456-3405-FB24-0AD2B9C59E29}|GestionInscription\\GestionInscription.csproj|solutionrelative:gestioninscription\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6B041CE7-2456-3405-FB24-0AD2B9C59E29}|GestionInscription\\GestionInscription.csproj|c:\\users\\finoa\\source\\repos\\gestioninscription\\gestioninscription\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B041CE7-2456-3405-FB24-0AD2B9C59E29}|GestionInscription\\GestionInscription.csproj|solutionrelative:gestioninscription\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B041CE7-2456-3405-FB24-0AD2B9C59E29}|GestionInscription\\GestionInscription.csproj|c:\\users\\finoa\\source\\repos\\gestioninscription\\gestioninscription\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B041CE7-2456-3405-FB24-0AD2B9C59E29}|GestionInscription\\GestionInscription.csproj|solutionrelative:gestioninscription\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B041CE7-2456-3405-FB24-0AD2B9C59E29}|GestionInscription\\GestionInscription.csproj|c:\\users\\finoa\\source\\repos\\gestioninscription\\gestioninscription\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B041CE7-2456-3405-FB24-0AD2B9C59E29}|GestionInscription\\GestionInscription.csproj|solutionrelative:gestioninscription\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B041CE7-2456-3405-FB24-0AD2B9C59E29}|GestionInscription\\GestionInscription.csproj|c:\\users\\finoa\\source\\repos\\gestioninscription\\gestioninscription\\liaisonbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,8 +30,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\finoa\\source\\repos\\GestionInscription\\GestionInscription\\login.cs",
+              "RelativeDocumentMoniker": "GestionInscription\\login.cs",
+              "ToolTip": "C:\\Users\\finoa\\source\\repos\\GestionInscription\\GestionInscription\\login.cs",
+              "RelativeToolTip": "GestionInscription\\login.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwDYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T05:07:27.434Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\finoa\\source\\repos\\GestionInscription\\GestionInscription\\login.cs",
+              "RelativeDocumentMoniker": "GestionInscription\\login.cs",
+              "ToolTip": "C:\\Users\\finoa\\source\\repos\\GestionInscription\\GestionInscription\\login.cs [Conception]",
+              "RelativeToolTip": "GestionInscription\\login.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T01:10:38.811Z",
+              "EditorCaption": " [Conception]"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -45,34 +71,13 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\finoa\\source\\repos\\GestionInscription\\GestionInscription\\Form1.cs",
-              "RelativeDocumentMoniker": "GestionInscription\\Form1.cs",
-              "ToolTip": "C:\\Users\\finoa\\source\\repos\\GestionInscription\\GestionInscription\\Form1.cs*",
-              "RelativeToolTip": "GestionInscription\\Form1.cs*",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAjwBYAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T05:07:27.434Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\finoa\\source\\repos\\GestionInscription\\GestionInscription\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "GestionInscription\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\finoa\\source\\repos\\GestionInscription\\GestionInscription\\Form1.Designer.cs",
-              "RelativeToolTip": "GestionInscription\\Form1.Designer.cs",
+              "Title": "login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\finoa\\source\\repos\\GestionInscription\\GestionInscription\\login.Designer.cs",
+              "RelativeDocumentMoniker": "GestionInscription\\login.Designer.cs",
+              "ToolTip": "C:\\Users\\finoa\\source\\repos\\GestionInscription\\GestionInscription\\login.Designer.cs",
+              "RelativeToolTip": "GestionInscription\\login.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-14T05:06:31.267Z",
@@ -99,22 +104,18 @@
               "RelativeDocumentMoniker": "GestionInscription\\liaisonBD.cs",
               "ToolTip": "C:\\Users\\finoa\\source\\repos\\GestionInscription\\GestionInscription\\liaisonBD.cs",
               "RelativeToolTip": "GestionInscription\\liaisonBD.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-14T04:52:51.433Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Conception]",
-              "DocumentMoniker": "C:\\Users\\finoa\\source\\repos\\GestionInscription\\GestionInscription\\Form1.cs",
-              "RelativeDocumentMoniker": "GestionInscription\\Form1.cs",
-              "ToolTip": "C:\\Users\\finoa\\source\\repos\\GestionInscription\\GestionInscription\\Form1.cs [Conception]*",
-              "RelativeToolTip": "GestionInscription\\Form1.cs [Conception]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T04:15:59.395Z",
-              "EditorCaption": " [Conception]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
