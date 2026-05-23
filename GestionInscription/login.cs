@@ -42,10 +42,10 @@ namespace GestionInscription
             if (isValid)
             {
                 //MessageBox.Show("Connexion ok");
-                //principale a = new principale();
-                stat a=new stat();
+                principale a = new principale();
+                //stat a=new stat();
                 a.Show();
-                //this.Hide();
+                this.Hide();
 
             }
             else

@@ -61,6 +61,7 @@
             // btn_conct
             // 
             btn_conct.Animated = true;
+            btn_conct.AnimatedGIF = true;
             btn_conct.BorderRadius = 20;
             btn_conct.CustomizableEdges = customizableEdges1;
             btn_conct.DisabledState.BorderColor = Color.DarkGray;
