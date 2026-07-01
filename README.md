@@ -33,5 +33,26 @@ Le projet a pour objectif de remplacer les processus manuels par une solution nu
 - **MySQL Workbench** : Administration et conception de la base de données
 - **Git & GitHub** : Gestion de version
 
+## Fonctionnalités principales
 
+### Gestion des élèves
+- Formulaire d’inscription scolaire
+- Ajout, modification et suppression des élèves
+- Consultation des informations des élèves
+- Recherche rapide des dossiers
+
+### Gestion des inscriptions
+- Enregistrement des nouvelles inscriptions
+- Attribution d’un identifiant élève
+- Gestion des informations scolaires
+
+### Gestion des paiements
+- Enregistrement des frais scolaires
+- Suivi du statut de paiement
+- Historique des paiements effectués
+
+### Gestion des classes
+- Création et gestion des classes
+- Attribution des élèves dans une classe
+- Affichage de la liste des élèves par classe
 
